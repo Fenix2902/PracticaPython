@@ -1,0 +1,11 @@
+git init
+git add .
+git commit -m " "
+git push
+
+CREAR RAMAS PROPIAS
+**Toda rama se debe nombrar como feature A123 AC<--Iniciales de nombre del desarrollador**
+
+git checkout -b featureA123AC
+git branch ---> indica todas las ramas del proyecto
+git checkout master ---> para brincar a esta rama
