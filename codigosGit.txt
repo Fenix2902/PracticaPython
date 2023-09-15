@@ -6,6 +6,10 @@ git push
 CREAR RAMAS PROPIAS
 **Toda rama se debe nombrar como feature A123 AC<--Iniciales de nombre del desarrollador**
 
-git checkout -b featureA123AC
+git checkout -b featureA123AC--->clonar rama forkqueada
 git branch ---> indica todas las ramas del proyecto
 git checkout master ---> para brincar a esta rama
+
+git push origin "rama-actual"---->subir al repositorio
+git fech origin main --->preguntar si hay cambios
+git pull origin main --->jalar si hay cambios desde la rama main
